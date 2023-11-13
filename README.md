@@ -6,3 +6,6 @@ Stack:
  * PyQT6 GUI
  * Python base
  * Selenium 
+
+add code:
+https://github.com/nicknochnack/RealTimeObjectDetection/
